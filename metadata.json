@@ -1,0 +1,6 @@
+{
+  "name": "Tikforshop",
+  "description": "Um painel profissional para gerenciar e explorar fornecedores do TikTok Shop com uma interface limpa inspirada em quadros de tarefas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
